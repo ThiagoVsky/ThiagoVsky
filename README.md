@@ -32,5 +32,12 @@
     <img align="center" alt="Thiago-SSH" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     -->
   </div>
-  
+
   ##
+ 
+<div>
+   
+ ![Snake animation](https://github.com/ThiagoVsky/ThiagoVsky/blob/output/github-contribution-grid-snake.svg)
+   
+</div>
+ 
