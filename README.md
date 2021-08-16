@@ -16,6 +16,7 @@
     <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Thiago-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img align="center" alt="Thiago-VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="Thiago-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Thiago-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     <!--
     <img align="center" alt="Thiago-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -29,7 +30,7 @@
     <img align="center" alt="Thiago-Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
     <img align="center" alt="Thiago-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Thiago-SSH" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg">
-    <img align="center" alt="Thiago-SSH" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+    <img align="center" alt="Thiago-SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     -->
   </div>
 
